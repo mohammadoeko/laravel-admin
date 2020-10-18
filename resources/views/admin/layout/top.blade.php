@@ -7,7 +7,7 @@
     <link rel="apple-touch-icon" href="{{asset('public/apple-icon.png')}}">
     <link rel="shortcut icon" href="{{asset('public/favicon.ico')}}">
 
-    <link rel="stylesheet" href="qvendors/bootstrap/dist/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('public/vendors/bootstrap/dist/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('public/vendors/font-awesome/css/font-awesome.min.css')}}">
     <link rel="stylesheet" href="{{asset('public/vendors/themify-icons/css/themify-icons.css')}}">
     <link rel="stylesheet" href="{{asset('public/vendors/flag-icon-css/css/flag-icon.min.css')}}">
